@@ -13,7 +13,7 @@ function toggleMode() {
   // Substituir a imagem
   if (html.classList.contains("light")) {
     // Se tiver light mode, adicionar a imagem light
-    img.setAttribute("src", "./assets/avatar-light.png")
+    img.setAttribute("src", "./assets/Avatar-light.png")
     img.setAttribute("alt", "Foto de Mayke brito de oculós com fundo azul e rosa")
   } else {
     // Se tiver sem light mode, manter a imagem normal
